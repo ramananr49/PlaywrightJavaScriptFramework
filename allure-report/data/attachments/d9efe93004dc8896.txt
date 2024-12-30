@@ -1,0 +1,2 @@
+Verified Register Header
+ User already exisits with this Email Id! 

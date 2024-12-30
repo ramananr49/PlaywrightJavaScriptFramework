@@ -1,0 +1,22 @@
+[
+    {
+        "searchText": "Mango",
+        "replaceText" : "350"
+    },
+    {
+        "searchText": "Apple",
+        "replaceText" : "250"
+    },
+    {
+        "searchText": "Papaya",
+        "replaceText" : "100"
+    },
+    {
+        "searchText": "Banana",
+        "replaceText" : "80"
+    },
+    {
+        "searchText": "Kivi",
+        "replaceText" : "150"
+    }
+]
